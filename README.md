@@ -22,6 +22,3 @@ HEAD
 - **Vite** — Dev server super cepat.
 - **TailwindCSS** — Styling fleksibel & utility-first.
 - **React Icons** — Untuk icon input yang unik.
-
-# praksuljohn
-23e343d568da0c930d56d47d3580ffc9c0d5729a
