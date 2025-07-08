@@ -74,6 +74,7 @@ function App() {
           <p className="mt-4 text-red-500 font-medium">Silahkan isi alas & tinggi</p>
         )}
       </form>
+      {/* ✅ Tampilkan sorigjnsijvon */}
 
       {/* ✅ Tampilkan Riwayat */}
       {history.length > 0 && (
